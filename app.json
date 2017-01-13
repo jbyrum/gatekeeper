@@ -11,5 +11,6 @@
     "OAUTH_PORT": "443",
     "OAUTH_PATH": "/login/oauth/access_token",
     "OAUTH_METHOD": "POST"
-  }
+  },
+  "stack": "heroku-16"
 }
